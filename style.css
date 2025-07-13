@@ -1,0 +1,34 @@
+body {
+  background: #0a0a23;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+#stock-data {
+  margin: 1rem auto;
+  background: #1c1c3c;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 80%;
+}
+
+#chatbot {
+  margin-top: 2rem;
+}
+
+#userInput {
+  padding: 0.5rem;
+  width: 300px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-left: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
